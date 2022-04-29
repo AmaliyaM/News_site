@@ -1,0 +1,32 @@
+.root {
+   display: flex;
+   padding: 2px 4px;
+   align-items: center;
+   width: 50%;
+   margin-left: 20px;
+    
+  }
+
+  .input { 
+    flex: 1;
+    margin:8px;
+  }
+
+  .iconButton {
+    padding: 10,
+  }
+
+  .divider {
+    height: 28;
+    margin: 4;
+  }
+
+  .formControl {
+    margin: 8px;
+    min-width: 120px;
+  }
+
+  .controlContainer {
+      display: flex;
+      margin-top: 20px;
+  }
